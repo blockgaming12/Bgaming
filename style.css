@@ -28,6 +28,7 @@ nav{
 }
 nav .logo{
     width: 90px;
+    border-radius: 50%;
 }
 nav ul li{
     list-style: none;
